@@ -1,3 +1,3 @@
 export const sumTwoNums = () => {
-    return "asdf"
+  return 'asdf'
 }
