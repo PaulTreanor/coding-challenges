@@ -1,0 +1,14 @@
+{
+  "name": "coding-challenges",
+  "version": "1.0.0",
+  "description": "Public repo of coding challenges practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.34.2"
+  }
+}
