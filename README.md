@@ -11,13 +11,13 @@ I'm also going to be **documenting** all solutions in [Solutions.md](./Solutions
 
 ## Week 1: Basic Challenges
 
-### Day 1: Hello World
-- Write a function that prints "Hello, World!"
-- Write tests to ensure that the function correctly prints "Hello, World!"
+### ~~Day 1: Hello World~~
+- ~~Write a function that prints "Hello, World!"~~
+- ~~Write tests to ensure that the function correctly prints "Hello, World!"~~
 
-### Day 2: Sum of Two Numbers
-- Write a function that takes two numbers and returns their sum.
-- Write tests to ensure that it works as expected.
+### ~~Day 2: Sum of Two Numbers~~
+- ~~Write a function that takes two numbers and returns their sum.~~
+- ~~Write tests to ensure that it works as expected.~~
 
 ### Day 3: Reverse String
 - Write a function to reverse a string.
