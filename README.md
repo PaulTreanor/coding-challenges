@@ -19,9 +19,9 @@ I'm also going to be **documenting** all solutions in [Solutions.md](./Solutions
 - ~~Write a function that takes two numbers and returns their sum.~~
 - ~~Write tests to ensure that it works as expected.~~
 
-### Day 3: Reverse String
-- Write a function to reverse a string.
-- Write tests for various cases including palindromes and empty strings.
+### ~~Day 3: Reverse String~~
+- ~~Write a function to reverse a string.~~
+- ~~Write tests for various cases including palindromes and empty strings.~~
 
 ### Day 4: Check Palindrome
 - Write a function to check if a string is a palindrome.
