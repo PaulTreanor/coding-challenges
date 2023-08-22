@@ -23,9 +23,9 @@ I'm also going to be **documenting** all solutions in [Solutions.md](./Solutions
 - ~~Write a function to reverse a string.~~
 - ~~Write tests for various cases including palindromes and empty strings.~~
 
-### Day 4: Check Palindrome
-- Write a function to check if a string is a palindrome.
-- Write tests for this function.
+### ~~Day 4: Check Palindrome~~
+- ~~Write a function to check if a string is a palindrome.~~
+- ~~Write tests for this function.~~
 
 ### Day 5: FizzBuzz
 - Implement the classic FizzBuzz problem.
