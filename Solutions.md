@@ -10,6 +10,17 @@ For test driven development consider:
 - Prefer `toStrictEqual` over `toBe`
 
 ## TypeScript
+
+### Setting up env 
+
+`npm i -D typescript ts-node`
+
+`./node_modules/.bin/tsc --init`
+
+[paultreanor.com/eslint-vscode](https://paultreanor.com/eslint-vscode)
+
+run `npx eslint .` to make sure it works 
+
 ### Union
 ```ts
 // an array that can contain numbers and strings at the same time

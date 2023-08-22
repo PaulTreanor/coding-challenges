@@ -102,3 +102,13 @@ I'm also going to be **documenting** all solutions in [Solutions.md](./Solutions
 ### Day 21: Anagrams
 - Write a function to check if two strings are anagrams of each other.
 - Write tests for this function.
+
+# Experiment review 
+### I really like GitHub CodeSpaces. 
+As a VSCode user I find that it genuinely works near seemlessly. I was honestly surprised because I've used codeSandbox in the past and I wasn't that impressed. 
+
+I did have an issue where syntax highlighting wasn't working but changing my theme to `Light(Visual Studio)` fixed that. I also ran into a pretty typical ESLint not working issues that VSCode also sometimes has but reloading the page actually helps. 
+
+I appreciate not having to clone a repo and have such a neatly organised environment on my Mac. 
+
+I also appreciate that CodeSpaces encourages you to always commit your code or else they'll keep your CodeSpace active, which costs a small fee. 
