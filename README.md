@@ -27,9 +27,9 @@ I'm also going to be **documenting** all solutions in [Solutions.md](./Solutions
 - ~~Write a function to check if a string is a palindrome.~~
 - ~~Write tests for this function.~~
 
-### Day 5: FizzBuzz
-- Implement the classic FizzBuzz problem.
-- Write tests that check for 'Fizz', 'Buzz', and 'FizzBuzz'.
+### ~~Day 5: FizzBuzz~~
+- ~~Implement the classic FizzBuzz problem.~~
+- ~~Write tests that check for 'Fizz', 'Buzz', and 'FizzBuzz'.~~
 
 ### Day 6: Fibonacci Sequence
 - Write a function that returns the `n-th` Fibonacci number.

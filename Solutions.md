@@ -6,6 +6,9 @@ For test driven development consider:
 - Write an edge test case 
 - If tests aren't passing double check test case inputs!!!
 
+## Vitest 
+- Prefer `toStrictEqual` over `toBe`
+
 ## TypeScript
 ### Union
 ```ts
