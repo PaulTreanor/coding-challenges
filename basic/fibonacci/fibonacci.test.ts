@@ -1,5 +1,6 @@
 import { test, expect, assertType } from 'vitest'
-import { fibonacci } from './fibonacci'
+// import { fibonacci } from './fibonacci'
+import { recusionFibonacci as fibonacci } from './fibonacci'
 
 test('Testing that return type is number', () => {
   const fibonacciAnswer = fibonacci(10)
