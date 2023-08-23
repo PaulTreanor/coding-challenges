@@ -57,3 +57,7 @@ test('Making sure invalid input causes error', () => {
     expect(() => fizzBuzz(-10)).toThrowError('number')
 })
 ```
+
+# Classic problems 
+### Fibonacci starts from 1
+1, 1, 2, 3, 5, 8, 13, 21
