@@ -31,13 +31,13 @@ I'm also going to be **documenting** all solutions in [Solutions.md](./Solutions
 - ~~Implement the classic FizzBuzz problem.~~
 - ~~Write tests that check for 'Fizz', 'Buzz', and 'FizzBuzz'.~~
 
-### Day 6: Fibonacci Sequence
-- Write a function that returns the `n-th` Fibonacci number.
-- Write tests for this function.
+### ~~Day 6: Fibonacci Sequence~~
+- ~~Write a function that returns the `n-th` Fibonacci number.~~
+- ~~Write tests for this function.~~
 
-### Day 7: Factorial
-- Write a function to calculate the factorial of a given number.
-- Write tests to ensure the function works correctly.
+### ~~Day 7: Factorial~~
+- ~~Write a function to calculate the factorial of a given number.~~
+- ~~Write tests to ensure the function works correctly.~~
 
 ---
 
